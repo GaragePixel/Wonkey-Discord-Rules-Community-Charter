@@ -1,5 +1,4 @@
-# Wonkey Discord Rules & Community Charter  
-*Implementation credit: iDkP from GaragePixel*  
+# Wonkey Discord Rules & Community Charter 
 *Date: 2025-07-01*  
 
 ---
