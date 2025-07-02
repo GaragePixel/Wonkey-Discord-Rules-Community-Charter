@@ -8,7 +8,7 @@
 Welcome to the Wonkey Discord!  
 This server is dedicated to the evolution and advancement of the Sibly language family, with a focus on Monkey2/Wonkey and its upcoming successor. Our goal is to foster a high-quality, productive, and focused environment for language development, project sharing, and technical discussion.
 
-This project is open-source, funded directly by its maintainer, and free for all. Please note: open-source languages take years to achieve real recognition. This community is here to accelerate that process—by discussing the language, platforms, and the amazing projects built with them.
+This project is open-source, funded directly by its maintainer, and free for all. Please note: open-source languages take years to achieve real recognition. This community is here to accelerate that process, by discussing the language, platforms, and the amazing projects built with them.
 
 ---
 
@@ -32,8 +32,12 @@ This project is open-source, funded directly by its maintainer, and free for all
 - Unproductive negativity or vague complaints are not allowed.
 
 **5. Platform Advertising**  
-- No advertising for Apple, Google, or Microsoft.  
+- No advertising for apple, google, or microsoft.  
 - We can compile to some backends without officially promote it (e.g., MS .NET, but due to .NET’s decompilation issues, promoting it as a primary solution is not allowed).
+- Promoting compilers or languages/IDEs supported or actively developed by apple is not allowed given the feeling of insecurity created by apple's policy.
+- Absolutely forbidden to mention the current twitter or posting links to.
+- Always write the names of major companies in lower case as a sign of adherence to R. Stallman's true vision.
+- Monkey2/Wonkey is a self-funded free and open source project. Use only the following names: google-dart, google-go, google-godot, google-gdscript, apple-unity, jetbrains-kotlin (russian private limited liability company) to highlight the true nature of these projects (even google-python, since google, like for Firefox, has now devoured Python).
 
 **6. Strong Typing & Performance**  
 - Strongly typed, compiled languages are the backbone of this project’s performance philosophy.  
